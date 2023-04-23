@@ -1,0 +1,78 @@
+01.What are enumeration variable? How are they declared? What is the advantage of using them in a program?
+02.Write the name of some types of operators used in C with examples.
+03.What is the difference between i++ and ++i? Explain with proper example.
+04.What do you mean by associativity property of an operator?
+05.Differentiate between if-elseif and switch statement.
+06.What is the difference between while loop and do-while loop? Explain with example.
+07.Explain break and continue statement with an example.
+08.What is goto statement and why this should be avoided?
+09.How is a two-dimensional array represented in memory? 
+10.What are strings? Discuss some operations that can be performed on strings.
+11.Explain different functions used to perform string input operations.
+12.Differentiate between gets() and scanf().
+13.Explain different functions used to perform string input operations.
+14.Differentiate between gets() and scanf().
+15.Differentiate between a character and a string.
+16.Define a function. Why are they needed?
+17.Differentiate between function declaration and function definition.
+18.Differentiate between formal parameters and actual parameters
+19.Differentiate between call by value and call by reference
+20.What do you mean by scope and lifetime of a variable? Explain in details with a suitable example
+21.What do you mean by prototype declaration of a function? Why is it needed?
+22.What do you mean by storage class? Explain each storage class supported in C language with features
+23.Explain the concept of recursive function with an example.
+24.Differentiate between an iterative function and a recursive function.
+25.Explain the type of recursion with example in each case.
+26.What is tail recursion?
+
+****pointer***
+
+27.Explain the difference between a null pointer and a void pointer.
+28.Write a short note on pointers.
+29.Compare pointer and array name.
+30.What do you understand by null pointer?
+31.How are generic pointers different from other pointer variables?
+32.Write a short note on pointer arithmetic.
+33.How are arrays related to pointers?
+34.Write the advantages of using pointers.
+35.Explain the term dynamic memory allocation.
+36.Differentiate between malloc() and calloc().
+37.Write a short note on pointer to pointer.
+38.Differentiate between a function returning pointer to int and a pointer to function returning int.
+39.How can you declare a pointer variable?
+40.Differentiate between a variable’s address and a variable’s value. How can we access a variable’s address and its value using pointer?
+41.Can we assign a pointer variable to another pointer variable? Justify your answer with the help of an example.
+42.With the help of an example explain how an array can be passed to a function?
+43.What is dangling pointer?
+44.What is an array of pointers?
+45.What are the drawbacks of using pointer? 
+
+***Structure***
+
+46.What is the advantage of using structures? 
+47.Differentiate between structure and union.
+48.Differentiate between a structure and an array.
+49.Explain the utility of typdef keyword in structure.
+50.Is it possible to create an array of structure? Explain with the help of an example.
+51.Differentiate between array within a structure and array of structure.
+52.Write a short note on nested structure.
+53.Write a short note on enumerated data type
+
+***preprocessor***
+
+54.What is preprocessor directive? 
+55.Can we have a C program that does not use any preprocessor directive?
+
+***file****
+
+56.What is the significance of EOF?
+56.Distinguish between printf() and fprintf().
+57.How does an append mode differ from a write mode in a file?
+58.What are the common uses of rewind() and ftell() functions?
+59.What is the difference between the statements rewind(fp) and fseek(fp,0L,0)?
+60.Write a program to copy the content of one file to another.
+61.What are different modes by which a file can be opened? Describe each of them.
+62.What is the function of fclose()?
+63.Distinguish between scanf() and fscanf().
+64.Can we print the output in the monitor using fprintf() function? If yes, how?
+65.What do you mean by sequential access to a file and random access to a file?

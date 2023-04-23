@@ -1,0 +1,18 @@
+#include <stdio.h>
+
+int main()
+{
+    char str[100];
+    int w = 0;
+    printf("Enter string:\n");
+    gets(str);
+    for (int i = 0; str[i] != '\0'; i++)
+    {
+        if (str[i] == 32)
+        {
+            w++;
+        }
+    }
+    printf("\nNumber of words: %d", w + 1);
+    return 0;
+}
